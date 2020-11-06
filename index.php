@@ -11,7 +11,10 @@
   </head>
   <body>
 
-    <?php include 'includes/header.php'; ?>
+    <header>
+    <h1><a href="index.php"> Biographies de philosophes </a></h1>
+    </header>
+
 
     <main class="main_index">
       <form id="form_autocomplete" class="form_autocomplete" action="recherche.php" method="get">
