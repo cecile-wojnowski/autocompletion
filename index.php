@@ -11,7 +11,7 @@
   </head>
   <body>
 
-    <header>
+    <header class="header_index">
     <h1><a href="index.php"> Biographies de philosophes </a></h1>
     </header>
 
